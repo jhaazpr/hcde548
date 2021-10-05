@@ -1,6 +1,6 @@
 @import "minima";
 
-.site-title::before {
+header::before {
     content: url("assets/img/me.jpg");
     display: inline-block;
     position: relative;
