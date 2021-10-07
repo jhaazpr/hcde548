@@ -15,12 +15,13 @@ Once I had figured out this approach, only then did I go to CAD software, and to
 
 # CAD
 
-TBD
+<img width="1552" alt="rhino_top" src="https://user-images.githubusercontent.com/4927336/136448331-f262a8f2-2f71-44b6-b171-ae4f8ab2531f.png">
+<img width="1552" alt="rhino_persp" src="https://user-images.githubusercontent.com/4927336/136448351-810396a6-3160-4f71-8fdd-70f304e8050d.png">
 
 # Fabrication
 
-TBD
+![cutting](https://user-images.githubusercontent.com/4927336/136448503-6717502d-920e-4d8a-bd61-92085a3ecdc3.JPG)
 
 # Lesson Learned
 
-TBD
+- It would have been easier _not_ to design the holes for the thong in CAD, and rather fabricate the top piece first, glue the sheets, and then make holes with a drill press. It's far easier to reason about appropriate hole sizes and placement once the piece is in one's hand (or if only there were some way to formalize hole placement logic programatically...).
