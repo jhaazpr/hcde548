@@ -6,6 +6,6 @@ My name is Jasper and I am a 5th year PhD student. I am working on tools that fo
 
 ## Assignments
 
-- [Assignment 1 (TBD)](#)
+- [Assignment 1 (TBD)](assignment1.html)
 - [Assignment 2 (TBD)](#)
 - [Assignment 3 (TBD)](#)
